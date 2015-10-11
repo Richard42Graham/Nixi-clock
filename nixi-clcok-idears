@@ -1,0 +1,48 @@
+nixi-clcok-idears
+
+// idears 
+
+// clock
+// date
+// bandwith monitor
+// speed test
+
+
+// ----- clock ----- // 
+
+NTP sync update to RTC (once a day @ midnight)
+
+// ---------------- //
+
+
+// ------- date ---------- //
+hours == day
+minits == month 
+seconds == year
+1/10 seconds == spring autum winder summer ? 
+
+// ----------------- //
+
+
+
+// --------- bandwith monitor -------- //
+
+sync ssh / web page, of DD-WRT 
+update once a second, 
+
+hours == download
+minits == upload
+seconds == ping ? 
+1/10 seconds == acitve ip adresses ? 
+// ------------------------------------//
+
+
+// ------ speed test ------ // 
+
+use https://github.com/somakeit/smib-commands/blob/master/speedtest.py
+and imploment in clock
+
+consider only running once every 10 seconds. as it uses speedtest.net
+
+// ----------------------- // 
+
