@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SP4T
+D 3 position switch, SP3T
+K switch SP3T
+$ENDCMP
+#
+#End Doc Library

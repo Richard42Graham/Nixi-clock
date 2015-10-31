@@ -20,7 +20,7 @@ pinMode(D, OUTPUT);
 void main();
 {
 
-while( int I = 0, i < 13, i++)
+while( int I = 0, i < 9, i++)
 {
 
 switch(i)
